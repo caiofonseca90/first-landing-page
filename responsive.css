@@ -104,7 +104,7 @@ form{
 }
 
 #container-form label{
-    width: 100%;
+    width: 90%;
 }
 
 form label{
@@ -125,7 +125,7 @@ h2{
 
 input{
     height: 35px;
-    width: 100%;
+    width: 90%;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -251,7 +251,7 @@ button{
     }
     
     #container-form label{
-        width: 100%;
+        width: 90%;
     }
     
     form label{
@@ -272,7 +272,7 @@ button{
     
     input{
         height: 45px;
-        width: 100%;
+        width: 90%;
         padding: 15px;
         margin-bottom: 20px;
         border-radius: 8px;
