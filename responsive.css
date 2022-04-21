@@ -15,8 +15,8 @@
 }
 
 #logo-img{
-    width: 250px;
-    height: 175px;
+    width: 170px;
+    height: 110px;
     align-items: center;
 }
 
@@ -92,6 +92,7 @@ form{
     margin-bottom: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
+    box-shadow: 1px -1px 5px whitesmoke;
     
 }
 
@@ -143,7 +144,7 @@ button{
     color: whitesmoke;
     font-size: 17px;
     font-weight: bold;
-    text-shadow: 1px 5px 4px black;
+    text-shadow: 1px 2px 2px black;
     transition: 0.2s;
 }
 }
@@ -166,8 +167,8 @@ button{
     
     
     #logo-img{
-        width: 250px;
-        height: 175px;
+        width: 170px;
+        height: 110px;
         align-items: center;
     }
     
@@ -241,6 +242,7 @@ button{
         margin-bottom: 30px;
         padding-top: 30px;
         padding-bottom: 30px;
+        box-shadow: 1px -1px 5px whitesmoke;
     }
     
     #container-form{
@@ -290,7 +292,7 @@ button{
         color: whitesmoke;
         font-size: 17px;
         font-weight: bold;
-        text-shadow: 1px 4px 4px black;
+        text-shadow: 1px 2px 2px black;
         transition: 0.2s;
     }
 }
@@ -386,7 +388,7 @@ button{
         border-radius: 15px;
         backdrop-filter: blur(10px);
         border-radius: 25px;
-        box-shadow: 0px 0px 10px whitesmoke;
+        box-shadow: 1px -1px 5px whitesmoke;
         margin-top: 50px;
         padding-top: 50px;
         padding-bottom: 50px;
@@ -441,7 +443,7 @@ button{
         color: whitesmoke;
         font-size: 18px;
         font-weight: bold;
-        text-shadow: 1px 5px 4px black;
+        text-shadow: 1px 2px 2px black;
         transition: 0.2s;
         box-shadow: 0px 0px 20px black;
     }
@@ -547,7 +549,7 @@ button{
         border-radius: 15px;
         backdrop-filter: blur(10px);
         border-radius: 25px;
-        box-shadow: 0px 0px 10px whitesmoke;
+        box-shadow: 1px -1px 5px whitesmoke;
         margin-top: 100px;
         padding-top: 60px;
         padding-bottom: 60px;
@@ -601,7 +603,7 @@ button{
         color: whitesmoke;
         font-size: 20px;
         font-weight: bold;
-        text-shadow: 1px 4px 4px black;
+        text-shadow: 1px 2px 2px black;
         transition: 0.2s;
         box-shadow: 0px 0px 25px black;
     }
