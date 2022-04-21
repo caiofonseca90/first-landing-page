@@ -8,6 +8,7 @@ body{
     background-color: #0F0B21;
     background-image: url(fundoBg/fundoprojeto.png);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
